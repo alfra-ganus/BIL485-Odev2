@@ -1,7 +1,7 @@
 # BIL485-Odev2
 Breast Ultrasound Image Veri Setiyle ResNet-50 modeli üzerinde tümör huy tespiti
 
-!Model ağırlıkları v1.0'da verilmiştir.
+***Model ağırlıkları v1.0'da verilmiştir.
 
 Bil485-Derin Öğrenme dersi ödevi olarak hazırlanmıştır.
 
